@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-20T18:53:20.204</Modified>
+      <Modified>2018-02-20T18:58:44.566</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\Author.exe">
       <PackagePath>entrypoint\Author.exe</PackagePath>
-      <Modified>2018-02-20T18:53:18.890</Modified>
+      <Modified>2018-02-20T18:58:43.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\Microsoft.Azure.Mobile.Client\4.0.2\lib\uap10.0\Microsoft.Azure.Mobile.Client.dll">
       <PackagePath>Microsoft.Azure.Mobile.Client.dll</PackagePath>
@@ -563,6 +563,10 @@
       <PackagePath>Assets\butterflys4.jpg</PackagePath>
       <Modified>2017-10-31T23:29:42.153</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\Assets\cover.JPG">
+      <PackagePath>Assets\cover.JPG</PackagePath>
+      <Modified>2017-11-06T18:33:05.350</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\Banner.jpg">
       <PackagePath>Banner.jpg</PackagePath>
       <Modified>2018-02-16T01:18:50.941</Modified>
@@ -616,11 +620,11 @@
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-20T18:53:19.702</Modified>
+      <Modified>2018-02-20T18:58:43.995</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\Core\Author.exe">
       <PackagePath>Author.exe</PackagePath>
-      <Modified>2018-02-20T18:53:20.196</Modified>
+      <Modified>2018-02-20T18:58:44.559</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

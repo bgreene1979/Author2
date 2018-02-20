@@ -124,6 +124,7 @@
   <ItemGroup>
     <Content Include="Assets\Banner.jpg" />
     <Content Include="Assets\butterflys4.jpg" />
+    <Content Include="Assets\cover.JPG" />
     <Content Include="Banner.jpg" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
