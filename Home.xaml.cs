@@ -26,7 +26,7 @@ namespace Author
         public Home()
         {
             this.InitializeComponent();
-            txtblkUserName.Text = MainPage.UserName + " Home";   
+            txtblkUserName.Text = MainPage.UserName;   
         }
 
         private void hplAbout_Click(object sender, RoutedEventArgs e)
@@ -43,5 +43,6 @@ namespace Author
         {
             this.Frame.Navigate(typeof(Contact));
         }
+
     }
 }

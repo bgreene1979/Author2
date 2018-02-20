@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-20T18:38:51.439</Modified>
+      <Modified>2018-02-20T18:53:20.204</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\Author.exe">
       <PackagePath>entrypoint\Author.exe</PackagePath>
-      <Modified>2018-02-20T18:38:49.957</Modified>
+      <Modified>2018-02-20T18:53:18.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\Microsoft.Azure.Mobile.Client\4.0.2\lib\uap10.0\Microsoft.Azure.Mobile.Client.dll">
       <PackagePath>Microsoft.Azure.Mobile.Client.dll</PackagePath>
@@ -607,7 +607,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\Author.xr.xml">
       <PackagePath>Author.xr.xml</PackagePath>
-      <Modified>2018-02-20T18:23:22.911</Modified>
+      <Modified>2018-02-20T18:53:18.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -616,11 +616,11 @@
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-20T18:38:50.858</Modified>
+      <Modified>2018-02-20T18:53:19.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\bin\x86\Debug\Core\Author.exe">
       <PackagePath>Author.exe</PackagePath>
-      <Modified>2018-02-20T18:38:51.427</Modified>
+      <Modified>2018-02-20T18:53:20.196</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
