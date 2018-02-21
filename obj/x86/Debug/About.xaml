@@ -18,7 +18,7 @@
     <TextBlock x:ConnectionId='5' x:Name="txtblkUserName" HorizontalAlignment="Left" Margin="100,10,0,0" TextWrapping="Wrap" Text="Text" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="31,234,0,0" TextWrapping="Wrap" Text="Millicent Dagworth is a young woman who is currently living on the East coast and studying marine biology in college. " VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="31,321,0,0" TextWrapping="Wrap" Text="She has a mother and a sister who are very proud of her and support her in everything that she does. " VerticalAlignment="Top"/>
-        <Image HorizontalAlignment="Left" Source="assets/family.jpg" Height="100" Margin="100,471,0,0" VerticalAlignment="Top" Width="91"/>
+        <Image HorizontalAlignment="Left" Source="assets/family.jpg" Height="100" Margin="130,470,0,0" VerticalAlignment="Top" Width="91"/>
 
     </Grid>
 </Page>

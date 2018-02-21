@@ -12,6 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Windows.UI.Popups;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -42,5 +43,19 @@ namespace Author
         {
             this.Frame.Navigate(typeof(Contact));
         }
+
+        /*async private void hplSpiritLink_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                System.Diagnostics.Process.Start("https://www.xlibris.com/Bookstore/BookDetail.aspx?BookId=SKU-001160445");
+            }
+            catch (MobileServiceInvalidOperationException exception e)
+            {
+                var dialog = new MessageDialog( "User name or password does not match");
+                await dialog.ShowAsync();
+            }
+
+        }*/
     }
 }

@@ -12,11 +12,15 @@
             <ImageBrush ImageSource="Assets/butterflys4.jpg" AlignmentY="Top" AlignmentX="Center"/>
         </Grid.Background>
         <Image x:Name="imgLogo" HorizontalAlignment="Left" Source="assets/banner.jpg" Height="100" Margin="15,43,0,0" VerticalAlignment="Top" Width="335"/>
-        <HyperlinkButton x:Name="hplHome" Content="Home" HorizontalAlignment="Left" Margin="86,171,0,0" VerticalAlignment="Top" Click="hplHome_Click"/>
-        <HyperlinkButton x:Name="hplAbout" Content="About" HorizontalAlignment="Left" Margin="170,171,0,0" VerticalAlignment="Top" Click="hplAbout_Click"/>
+        <HyperlinkButton x:Name="hplHome" Content="Home" HorizontalAlignment="Left" Margin="62,171,0,0" VerticalAlignment="Top" Click="hplHome_Click"/>
+        <HyperlinkButton x:Name="hplAbout" Content="About" HorizontalAlignment="Left" Margin="158,171,0,0" VerticalAlignment="Top" Click="hplAbout_Click"/>
         <HyperlinkButton x:Name="hplBooks" Content="Books" HorizontalAlignment="Left" Margin="247,171,0,0" VerticalAlignment="Top" Click="hplBooks_Click"/>
         <TextBlock HorizontalAlignment="Left" Margin="213,10,0,0" TextWrapping="Wrap" Text="Welcome: " VerticalAlignment="Top"/>
         <TextBlock x:Name="txtblkUserName" HorizontalAlignment="Left" Margin="303,10,0,0" TextWrapping="Wrap" Text="Text" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="32,238,0,0" TextWrapping="Wrap" Text="Author Email: " VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="179,238,0,0" TextWrapping="Wrap" Text="author@gmail.com" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="32,277,0,0" TextWrapping="Wrap" Text="App Designer: " VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="179,277,0,0" TextWrapping="Wrap" Text="application@gmail.com" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>

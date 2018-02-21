@@ -17,6 +17,9 @@
         <HyperlinkButton x:Name="hplContact" Content="Contact" HorizontalAlignment="Left" Margin="247,171,0,0" VerticalAlignment="Top" Click="hplContact_Click"/>
         <TextBlock HorizontalAlignment="Left" Margin="213,10,0,0" TextWrapping="Wrap" Text="Welcome: " VerticalAlignment="Top"/>
         <TextBlock x:Name="txtblkUserName" HorizontalAlignment="Left" Margin="303,10,0,0" TextWrapping="Wrap" Text="Text" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="86,242,0,0" TextWrapping="Wrap" Text="Spirit of the Forrest" VerticalAlignment="Top"/>
+        <Image HorizontalAlignment="Left" Source="assets/cover.jpg" Height="100" Margin="99,293,0,0" VerticalAlignment="Top" Width="68"/>
+        <TextBlock HorizontalAlignment="Left" Margin="28,416,0,0" TextWrapping="Wrap" Text="https://www.xlibris.com/Bookstore/BookDetail.aspx?BookId=SKU-001160445" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>

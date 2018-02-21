@@ -113,11 +113,12 @@ namespace Author
                     .Where(User_Cred => User_Cred.Password == txtPassword.Text)
                     .ToListAsync();
 
+
                 int IsAuth = items.Count();
 
                 if (IsAuth > 0)
                 {
-                    UserName = txtUserName.Text;
+                    UserName = items[0].Fname;
                     this.Frame.Navigate(typeof(Home));  
                 }
                 else
