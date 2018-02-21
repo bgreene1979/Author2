@@ -15,8 +15,8 @@
         <HyperlinkButton x:Name="hplAbout" Content="About" HorizontalAlignment="Left" Margin="86,171,0,0" VerticalAlignment="Top" Click="hplAbout_Click"/>
         <HyperlinkButton x:Name="hplBooks" Content="Books" HorizontalAlignment="Left" Margin="170,171,0,0" VerticalAlignment="Top" Click="hplBooks_Click"/>
         <HyperlinkButton x:Name="hplContact" Content="Contact" HorizontalAlignment="Left" Margin="247,171,0,0" VerticalAlignment="Top" Click="hplContact_Click"/>
-        <TextBlock HorizontalAlignment="Left" Margin="213,10,0,0" TextWrapping="Wrap" Text="Welcome: " VerticalAlignment="Top"/>
-        <TextBlock x:Name="txtblkUserName" HorizontalAlignment="Left" Margin="303,10,0,0" TextWrapping="Wrap" Text="Text" VerticalAlignment="Top" FontSize="15"/>
+        <TextBlock HorizontalAlignment="Left" Margin="15,14,0,0" TextWrapping="Wrap" Text="Welcome: " VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtblkUserName" HorizontalAlignment="Left" Margin="101,14,0,0" TextWrapping="Wrap" Text="Text" VerticalAlignment="Top" FontSize="15"/>
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="58" Margin="15,203,0,0" VerticalAlignment="Top" Width="335">
             <TextBlock TextWrapping="Wrap" Text="News" FontSize="36" Margin="108,1,118,-1" />
         </Border>

@@ -25,7 +25,7 @@ namespace Author
         public Contact()
         {
             this.InitializeComponent();
-            txtblkUserName.Text = MainPage.UserName + " Contact"; 
+            txtblkUserName.Text = MainPage.UserName; 
         }
 
         private void hplHome_Click(object sender, RoutedEventArgs e)

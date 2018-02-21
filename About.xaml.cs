@@ -25,7 +25,7 @@ namespace Author
         public About()
         {
             this.InitializeComponent();
-            txtblkUserName.Text = MainPage.UserName + " About";
+            txtblkUserName.Text = MainPage.UserName;
         }
 
         private void hplAbout_Click(object sender, RoutedEventArgs e)

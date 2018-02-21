@@ -424,6 +424,9 @@
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\Assets\cover.JPG">
       <PackagePath>Assets\cover.JPG</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\Assets\family.JPG">
+      <PackagePath>Assets\family.JPG</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hp\Desktop\School\Author\Author\Author\Banner.jpg">
       <PackagePath>Banner.jpg</PackagePath>
     </AppxPackagedFile>
